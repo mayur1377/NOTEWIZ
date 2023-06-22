@@ -23,6 +23,12 @@ subjects = {
     'IS': {
         '1': ['Subject 5', 'Subject 6'],
         '2': ['Subject 7', 'Subject 8'],
+        '3': ['ADC', 'CO' , 'CIPE' , 'DS'],
+        '4': ['DAA', 'OS' , 'ARM' , 'BIOE'],
+        '5': ['DBMS', 'SE&T' , 'SIOT' , 'DC' , 'JAVA'],
+        '6': ['ADSA' , 'SPM' , 'CN' , 'AIML' , 'WT'],
+        '7': ['CBT', 'CCDF' ],
+        '8': ['Subject 7', 'Subject 8']
         # Add subjects for other semesters
     }
 }
